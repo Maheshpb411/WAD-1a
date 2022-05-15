@@ -204,7 +204,9 @@ figure {
 
 img {
   vertical-align: middle;
-  border-style: none; }
+  border-style: none; 
+  
+}
 
 svg {
   overflow: hidden;
@@ -9045,7 +9047,7 @@ html[dir="ltr"] body .p-l-0 {
       #main-wrapper[data-layout="vertical"][data-sidebartype="mini-sidebar"] .topbar .top-navbar .navbar-header.expand-logo {
         width: 250px; }
         #main-wrapper[data-layout="vertical"][data-sidebartype="mini-sidebar"] .topbar .top-navbar .navbar-header.expand-logo .logo-text {
-          display: block; }
+          display: block;}
     #main-wrapper[data-layout="vertical"][data-sidebartype="mini-sidebar"] .left-sidebar .upgrade-btn {
       display: none; }
     #main-wrapper[data-layout="vertical"][data-sidebar-position="fixed"][data-sidebartype="mini-sidebar"] .topbar .top-navbar .navbar-collapse {
